@@ -1,0 +1,11 @@
+
+
+Hi This is file1
+
+Create a simple ToDo list application where you can add, remove, and view tasks.
+Write a program that merges the contents of two files (file1.txt and file2.txt) into a third file (merged.txt).
+
+This is a file 2
+
+Create a program that manages student records, including reading and writing student data to and from a text file (students.txt). 
+Include functionality to add, delete, and update student records.
